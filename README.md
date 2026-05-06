@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- 1. Animasi Ngetik (Udah diganti pake GIF lu) -->
-  <img src="https://raw.githubusercontent.com/Askerizo/assets/a7c77b59df8e6a63101984233fd32b49d8e6b1ec/Istruktura.gif" alt="Typing Name" width="500"/>
+  <!-- 1. Animasi Ngetik -->
+  <img src="https://raw.githubusercontent.com/Askerizo/Askerizo/ce0ad7929ab70b1934ce1b01623930ee29f29df6/assets/Istruktura.gif" alt="Typing Name" width="500"/>
 
   <br>
 
   <!-- 2. Gambar Ilustrasi Utama -->
-  <img src="https://raw.githubusercontent.com/Askerizo/assets/a7c77b59df8e6a63101984233fd32b49d8e6b1ec/62D7509F-2128-456C-B25C-C6EB309BFAC7.gif" alt="Developer Illustration" width="500"/>
+  <img src="https://raw.githubusercontent.com/Askerizo/Askerizo/ce0ad7929ab70b1934ce1b01623930ee29f29df6/assets/62D7509F-2128-456C-B25C-C6EB309BFAC7.gif" alt="Developer Illustration" width="500"/>
 
   <br><br>
 
@@ -23,7 +23,7 @@
 
   <br>
 
-  <!-- 4. Tech Stack (Sekarang bisa diklik ke link masing-masing) -->
+  <!-- 4. Tech Stack -->
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
@@ -36,8 +36,9 @@
 
   <br><br>
 
-  <!-- 5. Garis Pelangi -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="Rainbow Line" />
+  <!-- 5. Profile Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Askerizo&label=PROFILE%20VIEWS&color=2ea043&style=for-the-badge" alt="Askerizo's Profile Views" />
 
 </div>
+
 
