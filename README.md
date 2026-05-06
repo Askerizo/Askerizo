@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. Animasi Ngetik (Udah diganti jadi ASKER) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+there,+my+name+is+ASKER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Yoo+Guys,+my+name+is+ASKER" alt="Typing SVG" />
 
   <br>
 
