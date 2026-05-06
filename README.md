@@ -1,17 +1,16 @@
 <div align="center">
 
-  <!-- 1. Animasi Ngetik (Udah diganti jadi ASKER) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Yoo+Guys,+my+name+is+ASKER" alt="Typing SVG" />
+  <!-- 1. Animasi Ngetik (Udah diganti pake GIF lu) -->
+  <img src="https://raw.githubusercontent.com/Askerizo/assets/a7c77b59df8e6a63101984233fd32b49d8e6b1ec/Istruktura.gif" alt="Typing Name" width="500"/>
 
   <br>
 
-  <!-- 2. Gambar Ilustrasi Utama (GIF Cyberpunk lu) -->
-  <!-- GANTI tulisan LINK_GIF_LU_DISINI pake link hasil drag & drop di GitHub -->
-  <img src="LINK_GIF_LU_DISINI" alt="Cyberpunk GIF" width="500"/>
+  <!-- 2. Gambar Ilustrasi Utama -->
+  <img src="https://raw.githubusercontent.com/Askerizo/assets/a7c77b59df8e6a63101984233fd32b49d8e6b1ec/62D7509F-2128-456C-B25C-C6EB309BFAC7.gif" alt="Developer Illustration" width="500"/>
 
   <br><br>
 
-  <!-- 3. Sosmed & Kontak (Udah sesuai data lu) -->
+  <!-- 3. Sosmed & Kontak -->
   <a href="https://www.instagram.com/eenvyexe">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -24,10 +23,16 @@
 
   <br>
 
-  <!-- 4. Tech Stack (Python, SQLite, JS) -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- 4. Tech Stack (Sekarang bisa diklik ke link masing-masing) -->
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://sqlite.org">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  </a>
+  <a href="https://www.javascript.com">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
 
   <br><br>
 
@@ -35,3 +40,4 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="Rainbow Line" />
 
 </div>
+
